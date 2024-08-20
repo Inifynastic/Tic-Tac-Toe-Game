@@ -1,4 +1,5 @@
-    /*
+// This is all the messed up part I think I could use in future ;)
+/*
     int  spaces2[9]{' ',' ',' ',' ',' ',' ',' ',' ',' '};
     for(int i = 0; i < 9; ++i){
         if(spaces[i] == 'O'){
