@@ -1,5 +1,4 @@
 #include <iostream>
-#include <ctime>
 
 void DrawBoard1(char* Spaces);
 void Player1Move1(char* spaces, char player);
